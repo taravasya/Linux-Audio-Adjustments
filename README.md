@@ -23,12 +23,12 @@ Debian Based RPi tweaks for improved sound. For TinyCore Linux based systems see
 - Odroid C2
  ______________________________________________________________________________________________________________________________
  ## Automated Install
- - wget https://github.com/dynobot/Linux-Audio-Adjustments/raw/master/basic-install.sh
+ - wget https://github.com/taravasya/Linux-Audio-Adjustments/raw/master/basic-install.sh
  - chmod 755 basic-install.sh
  - sudo ./basic-install.sh
  
  ## Automated Removal
- - wget https://github.com/dynobot/Linux-Audio-Adjustments/raw/master/remove.sh
+ - wget https://github.com/taravasya/Linux-Audio-Adjustments/raw/master/remove.sh
  - chmod 755 remove.sh
  - sudo ./remove.sh
  
